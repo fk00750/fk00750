@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm F.K</h1>
-<h3 align="center">Aspiring backend developer</h3>
+<h3 align="center">I'm an undercover agent 🕵️‍♂️ trying to make surfing the web more enjoyable 😆. Yes, you guessed it right 😎, I am a backend web developer 🧑‍💻.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fk00750&label=Profile%20views&color=0e75b6&style=flat" alt="fk00750" /> </p>
 
