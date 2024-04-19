@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **API's and Server side programming**
 
-- 📫 How to reach me **fk_00750@protonmail.com**
+- 📫 How to reach me **fk_00750@yahoo.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
